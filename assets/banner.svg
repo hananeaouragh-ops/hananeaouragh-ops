@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1224"/><stop offset="1" stop-color="#162c42"/></linearGradient></defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+<g fill="none" stroke="#2dd4bf" stroke-width="2" opacity=".25"><path d="M850 0v55h90v55h120v65h140M930 0v30h110v55h160M820 300v-65h100v-50h150v-40h130M0 260h95v-30h70"/><rect x="865" y="105" width="95" height="95" rx="12"/><path d="M885 125h55v55h-55M845 125h20m-20 25h20m-20 25h20m95-50h20m-20 25h20m-20 25h20"/></g>
+<rect x="55" y="48" width="285" height="29" rx="14" fill="#2dd4bf" opacity=".13"/>
+<text x="73" y="68" font-family="Arial,sans-serif" font-size="14" fill="#5eead4" letter-spacing="2">EMBEDDED SYSTEMS &amp; ROBOTICS</text>
+<text x="55" y="139" font-family="Arial,sans-serif" font-size="49" font-weight="700" fill="#f8fafc">HANANE AOURAGH</text>
+<text x="58" y="186" font-family="Arial,sans-serif" font-size="25" fill="#a5f3fc">Automotive &amp; Hardware</text>
+<text x="58" y="231" font-family="Arial,sans-serif" font-size="18" fill="#a8bacc">FPGA / RTL · PCB Design · Embedded Software</text>
+<rect x="55" y="262" width="95" height="4" rx="2" fill="#2dd4bf"/>
+</svg>
